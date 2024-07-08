@@ -1,0 +1,239 @@
+[
+  {
+    "instanceCount": 4,
+    "instanceName": "Bedrock",
+    "cost": 100,
+    "account": [
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 1,
+        "accountCost": 25
+      },
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 3,
+        "accountCost": 75
+      }
+    ]
+  },
+  {
+    "instanceCount": 25,
+    "instanceName": "Inspector",
+    "cost": 2500,
+    "account": [
+      {
+        "friendlyName": "MAXIMUS Federal AWS",
+        "countOfServices": 2,
+        "accountCost": 200
+      },
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 6,
+        "accountCost": 600
+      },
+      {
+        "friendlyName": "MAXIMUS-AWS-CAIMR",
+        "countOfServices": 1,
+        "accountCost": 100
+      },
+      {
+        "friendlyName": "Maximus NYSOH",
+        "countOfServices": 10,
+        "accountCost": 1000
+      },
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 5,
+        "accountCost": 500
+      },
+      {
+        "friendlyName": "Maximus NYSOH Lab",
+        "countOfServices": 1,
+        "accountCost": 100
+      }
+    ]
+  },
+  {
+    "instanceCount": 6,
+    "instanceName": "Comprehend",
+    "cost": 1800,
+    "account": [
+      {
+        "friendlyName": "Maximus Security",
+        "countOfServices": 2,
+        "accountCost": 600
+      },
+      {
+        "friendlyName": "aws2.max.web.non.prod",
+        "countOfServices": 4,
+        "accountCost": 1200
+      }
+    ]
+  },
+  {
+    "instanceCount": 20,
+    "instanceName": "Textract",
+    "cost": 500,
+    "account": [
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 7,
+        "accountCost": 175
+      },
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 5,
+        "accountCost": 125
+      },
+      {
+        "friendlyName": "Maximus NYSOH Lab",
+        "countOfServices": 1,
+        "accountCost": 25
+      },
+      {
+        "friendlyName": "aws2.max.web.non.prod",
+        "countOfServices": 7,
+        "accountCost": 175
+      }
+    ]
+  },
+  {
+    "instanceCount": 25,
+    "instanceName": "Polly",
+    "cost": 1200,
+    "account": [
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 5,
+        "accountCost": 240
+      },
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 6,
+        "accountCost": 288
+      },
+      {
+        "friendlyName": "MAXIMUS Federal AWS",
+        "countOfServices": 6,
+        "accountCost": 288
+      },
+      {
+        "friendlyName": "Maximus NYSOH Lab",
+        "countOfServices": 2,
+        "accountCost": 96
+      },
+      {
+        "friendlyName": "MAXIMUS-AWS-CAIMR",
+        "countOfServices": 4,
+        "accountCost": 192
+      },
+      {
+        "friendlyName": "Maximus Security",
+        "countOfServices": 2,
+        "accountCost": 96
+      }
+    ]
+  },
+  {
+    "instanceCount": 15,
+    "instanceName": "Quicksight",
+    "cost": 1200,
+    "account": [
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 7,
+        "accountCost": 560
+      },
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 5,
+        "accountCost": 400
+      },
+      {
+        "friendlyName": "Maximus NYSOH",
+        "countOfServices": 3,
+        "accountCost": 240
+      }
+    ]
+  },
+  {
+    "instanceCount": 12,
+    "instanceName": "Lex",
+    "cost": 2400,
+    "account": [
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 5,
+        "accountCost": 1000
+      },
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 7,
+        "accountCost": 1400
+      }
+    ]
+  },
+  {
+    "instanceCount": 2,
+    "instanceName": "SageMaker",
+    "cost": 460,
+    "account": [
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 2,
+        "accountCost": 460
+      }
+    ]
+  },
+  {
+    "instanceCount": 7,
+    "instanceName": "Transcribe",
+    "cost": 4200,
+    "account": [
+      {
+        "friendlyName": "aws.max.web.non.prod",
+        "countOfServices": 5,
+        "accountCost": 3000
+      },
+      {
+        "friendlyName": "Maximus NYSOH",
+        "countOfServices": 3,
+        "accountCost": 1800
+      }
+    ]
+  },
+  {
+    "instanceCount": 7,
+    "instanceName": "Translate",
+    "cost": 2100,
+    "account": [
+      {
+        "friendlyName": "max.crop.sweden",
+        "countOfServices": 1,
+        "accountCost": 300
+      },
+      {
+        "friendlyName": "Maximus Security",
+        "countOfServices": 6,
+        "accountCost": 1800
+      }
+    ]
+  },
+  {
+    "instanceCount": 5,
+    "instanceName": "Rekognition",
+    "cost": 3500,
+    "account": [
+      {
+        "friendlyName": "Maximus NYSOH",
+        "countOfServices": 3,
+        "accountCost": 2100
+      },
+      {
+        "friendlyName": "Maximus NYSOH Lab",
+        "countOfServices": 2,
+        "accountCost": 1400
+      }
+    ]
+  }
+]
