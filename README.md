@@ -16,3 +16,8 @@
 ```bash
 uvicorn app.main:app --reload
 ```
+API End Point 
+1. POST /transform/chargecodes
+2. POST /transform/instances
+   
+(http://127.0.0.1:8000/transform/chargecodes)
